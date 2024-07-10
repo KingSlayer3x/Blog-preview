@@ -57,6 +57,10 @@ body{
     font-weight: 800;
     font-family: Figtree;
 }
+.title:hover{
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
 .description{
     color: hsl(0, 0%, 50%);
     font-family: Figtree;
